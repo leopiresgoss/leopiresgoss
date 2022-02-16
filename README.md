@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Webpack
 - 💬 Ask me about CSS (especially about responsiveness issues)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love arts and culture 🎭. I used to act as hobby before studing programming
+- ⚡ Fun fact: I love arts and culture 🎭. I used to act as a hobby before studying programming
 
 ## Languages 💻
 
