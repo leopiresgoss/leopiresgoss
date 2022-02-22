@@ -1,7 +1,7 @@
 # Hi there, I'm Leonardo 🙂
 
 - 💜 I'm learning at Microverse
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💡 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Webpack
 - 💬 Ask me about CSS (especially about responsiveness issues)
