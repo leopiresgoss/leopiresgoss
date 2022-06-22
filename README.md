@@ -1,10 +1,10 @@
 # Hi there, I'm Leonardo 🙂
 
 - 💜 I'm learning at Microverse
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning Ruby on Rails
 - 💡 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Webpack
-- 💬 Ask me about CSS (especially about responsiveness issues)
+- 🤔 I’m looking for help with request testing in a Rails App using Devise
+- 💬 Ask me about OOP Best Practices (I love them)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love arts and culture 🎭. I used to act as a hobby before studying programming
 
@@ -16,6 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 
 ## Github Stats 📈
