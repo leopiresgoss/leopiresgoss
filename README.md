@@ -1,6 +1,6 @@
 # Hi there, I'm Leonardo 🙂
 
-- 💜 I'm learning at Microverse
+- 💜 I finished the Full-Stack technical curriculum at Microverse
 - 🌱 I’m currently learning Ruby on Rails
 - 💡 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with request testing in a Rails App using Devise
