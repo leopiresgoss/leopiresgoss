@@ -1,22 +1,24 @@
 # Hi there, I'm Leonardo 🙂
 
-- 💜 I finished the Full-Stack technical curriculum at Microverse
-- 🌱 I’m currently learning Ruby on Rails
+- 💜 I finished the Full-Stack curriculum at Microverse
+- 🌱 I’m currently learning TypeScript
 - 💡 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with request testing in a Rails App using Devise
+- 🤔 I’m looking for help with Google OAuth2 for Rails
 - 💬 Ask me about OOP Best Practices (I love them)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love arts and culture 🎭. I used to act as a hobby before studying programming
 
-## Languages 💻
+## Stack 💻
 
 <div style="display: inline_block" align=left>
   <br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ruby" title="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Ruby on Rails" title="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
 </div>
 
 ## Github Stats 📈
