@@ -1,6 +1,6 @@
-# Hi there, I'm Leonardo 🙂
+# Hi there, I'm Leonardo 🚀
 
-- 💜 I finished the Full-Stack curriculum at Microverse
+- 💜 Full-stack web developer working as a Ruby on Rails developer and participating in the [deploy(impact) 2022](https://www.womenplusplus.ch/deploy-impact)
 - 🌱 I’m currently learning TypeScript
 - 💡 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Google OAuth2 for Rails
@@ -36,7 +36,7 @@
  <div> 
   <a href = "mailto:goss.leonardo3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/leonardopgoss" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/leonardogoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/leonardogoss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 
 </div>
