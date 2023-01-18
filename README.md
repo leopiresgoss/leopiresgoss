@@ -1,8 +1,8 @@
 # Hi there, I'm Leonardo 🚀
 
-- 💜 Full-stack web developer working as a Ruby on Rails developer and participating in the [deploy(impact) 2022](https://www.womenplusplus.ch/deploy-impact)
-- 🌱 I’m currently learning TypeScript
-- 💡 I’m looking to collaborate on open source projects
+- 💜 Full-stack web developer working as a Ruby on Rails developer and participated in the [deploy(impact) 2022](https://www.womenplusplus.ch/deploy-impact)
+- 🌱 I’m currently learning Redis/Sidekiq and Domai-Driven Design
+- 💡 I’m looking to collaborate on open source and social projects
 - 🤔 I’m looking for help with Google OAuth2 for Rails
 - 💬 Ask me about OOP Best Practices (I love them)
 - 😄 Pronouns: He/Him
@@ -20,16 +20,6 @@
   <img align="center" alt="Ruby" title="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Ruby on Rails" title="Ruby on Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
 </div>
-
-## Github Stats 📈
-
-<br>
-<div align="center">
-  <a href="https://github.com/leopiresgoss">
-  <img height="180em" src="https://github-readme-stats-leopiresgoss.vercel.app/api?username=leopiresgoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-leopiresgoss.vercel.app/api/top-langs/?username=leopiresgoss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
   
 ## Contact Me 💬
   
