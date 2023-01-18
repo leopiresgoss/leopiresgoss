@@ -1,7 +1,7 @@
 # Hi there, I'm Leonardo 🚀
 
 - 💜 Full-stack web developer working as a Ruby on Rails developer and participated in the [deploy(impact) 2022](https://www.womenplusplus.ch/deploy-impact)
-- 🌱 I’m currently learning Redis/Sidekiq and Domai-Driven Design
+- 🌱 I’m currently learning Redis/Sidekiq and Domain-Driven Design
 - 💡 I’m looking to collaborate on open source and social projects
 - 🤔 I’m looking for help with Google OAuth2 for Rails
 - 💬 Ask me about OOP Best Practices (I love them)
