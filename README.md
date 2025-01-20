@@ -1,9 +1,8 @@
 # Hi there, I'm Leonardo 🚀
 
-- 💜 Full-stack web developer working as a Ruby on Rails developer and participated in the [deploy(impact) 2022](https://www.womenplusplus.ch/deploy-impact)
-- 🌱 I’m currently learning Redis/Sidekiq and Domain-Driven Design
+- 💜 Full-stack web developer working as a Ruby on Rails developer at Produttivo and participated in the [deploy(impact) 2022](https://www.womenplusplus.ch/deploy-impact)
+- 🌱 I’m currently learning to improve my Design Principles knowledge
 - 💡 I’m looking to collaborate on open source and social projects
-- 🤔 I’m looking for help with Google OAuth2 for Rails
 - 💬 Ask me about OOP Best Practices (I love them)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love arts and culture 🎭. I used to act as a hobby before studying programming
